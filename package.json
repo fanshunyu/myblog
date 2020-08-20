@@ -10,7 +10,7 @@
   "author": "love996mynameisjackma",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "bootstrap": "^3.3.7",
     "ejs": "^2.6.1",
